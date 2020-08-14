@@ -2,10 +2,15 @@
 
 Too powerful Electric Mountainboard 2x4kW engines with custom made remote controll, based on vadder vesc
 
-![Alt Text](https://imgur.com/2Qwlkox.jpg)
-![Alt Text](https://imgur.com/mkg3GVW.jpg)
-![Alt Text](https://imgur.com/B4JBN8y.jpg)
-![Alt Text](https://imgur.com/xy40BRu.gif)
+![Alt Text](docs/117607188_302806180969981_3760556250728237485_n.jpg)
+![Alt Text](docs/117615098_599157270991910_8322972675641859272_n.jpg)
+![Alt Text](docs/117906062_604220177155120_5033402279252717301_n.jpg)
+![Alt Text](docs/ezgif.com-optimize.gif)
+
+# Pins
+
+diagram (link)
+micro jst raster 2mm
 
 # Stats
 
