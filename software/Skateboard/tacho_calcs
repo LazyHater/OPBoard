@@ -1,0 +1,43 @@
+avgMotorCurrent 2.14
+avgInputCurrent 2.04
+dutyCycleNow 0.95
+ERPM 38837
+V 33.30
+Ah 0.00
+Ah chg 0.00
+Tacho 16150
+Tacho abs 16150
+
+
+actual rpm 20-21 rps - 1200 - 1260
+
+vesc uart baud - 57600, 115200 not working with ard uno
+
+138377
+
+tacho 142291
+tacho abs 143931
+
+1 spin later
+
+Tacho 142433
+Tacho abs 144099
+
+tacho 142/spin
+tacho abs 168/spin
+
+one spin later
+
+Tacho 142597
+Tacho abs 144269
+
+tacho 164/spin
+tacho abs 170/spin
+
+one spin later
+
+Tacho 142736
+Tacho abs 144434
+
+Tacho 139/spin
+Tacho abs 165/spin
