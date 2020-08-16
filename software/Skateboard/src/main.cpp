@@ -202,12 +202,16 @@ float voltageToPercentage(float voltage)
 
 void renderVescStats(bool vesc_connected, float voltage, long long tacho, float amp_hours)
 {
-    float tacho_in_km = tacho * 0.0000037399912542735634;
+    // float tacho_in_km = tacho * 0.0000037399912542735634;
+    // empiricly choosen constant
+    float tacho_in_km = tacho * 0.000002;
     int km_major = (int)tacho_in_km;
     int km_minor = (int)(tacho_in_km * 10) % 10;
 
     int voltage_major = (int)voltage;
     int voltage_minor = (int)(voltage * 10) % 10;
+
+    amp_hours *= 2; // (cuz we have 2 vescs)
 
     int amp_hours_major = (int)amp_hours;
     int amp_hours_minor = (int)(amp_hours * 10) % 10;
